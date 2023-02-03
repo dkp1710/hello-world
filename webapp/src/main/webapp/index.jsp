@@ -4,6 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <p> Change in the Log info </p>
     <p> Welcome to Devops Tools CICD </p>
+    <p>First Trial Application <p>
     <hr>
     <hr>
     <label for="email"><b>Email</b></label>
